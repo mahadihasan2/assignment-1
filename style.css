@@ -39,3 +39,15 @@ span{
     font-size: 20px;
     text-align: justify;
 }
+
+.button {
+    text-decoration: none;
+    background-color: rgb(255, 81, 0);
+    padding: 10px 50px;
+    border-radius: 5px;
+    color: white;
+    margin-top: 10%;
+    font-size: 20px;
+
+}
+
