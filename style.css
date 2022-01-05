@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+}
+img{
+    width: 100%;
+    
+}
+.top-section{
+    display: flex;
+}
+.side-bar{
+    width: 50%;
+    margin-top: 70px;
+    margin-left: 95px;
+    
+}
+.img{
+    width: 25%;
+}
+.text-1 h1{
+    font-size: 45px;
+}
+.fist-h1{
+    color: black;
+    margin-bottom: 10px;
+}
+span{
+    color: orangered;
+}
+.second-text{
+  color: rgb(224, 177, 19);
+  
+}
+.text-1{
+    border-left: 5px solid gray;
+    padding-left: 10px;
+}
+.paragraph{
+    font-size: 20px;
+    text-align: justify;
+}
